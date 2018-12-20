@@ -1,0 +1,15 @@
+{
+	"name": "quasar-lambda",
+	"version": "0.5.0",
+	"description": "an AWS lambda function handler for the Quasar Runtime",
+	"main": "index.js",
+	"author": "keneucker@gmail.com",
+	"scripts": {},
+	"dependencies": {
+		"quasar": "0.8.62"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/KenEucker/quasar-lambda.git"
+	}
+}

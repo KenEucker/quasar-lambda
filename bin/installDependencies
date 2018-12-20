@@ -1,0 +1,6 @@
+#!/bin/bash
+
+yarn install
+yarn upgrade --latest --pattern "@digitaltrends"
+bin/version
+echo "installation completed"
